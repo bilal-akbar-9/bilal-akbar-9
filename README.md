@@ -42,7 +42,7 @@ style="font-family: 'Nova Square', cursive;"
 
 - 💬 Ask me about **MERN, Linux, Git and Docker**
 
-- 📫 How to reach me [Bilal's email](mailto:geo.bilal7@gmail.com)
+- 📫 How to reach me [bilal's email](mailto:geo.bilal7@gmail.com)
 
 - 📄 Know about my experiences [my experiences](https://portfolio-orpin-iota-50.vercel.app/experience)
 
