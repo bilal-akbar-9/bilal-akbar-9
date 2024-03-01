@@ -1,8 +1,16 @@
+<!-- fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anta&family=Nova+Square&display=swap" rel="stylesheet">
 <p align="center">
  <a href="https://portfolio-orpin-iota-50.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=29&duration=1500&pause=1000&color=06A2EA&center=true&vCenter=true&random=false&width=435&lines=Full+stack+web+developer+...;MERN+Stack+Enthusiast+...;Docker+Intermediate+..." alt="Text" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Bilal Akbar</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
+<h1 align="center"
+style="font-family: 'Nova Square', cursive;"
+>Hi 👋, I'm Bilal Akbar</h1>
+<h3 align="center"
+style="font-family: 'Nova Square', cursive;"
+>A passionate Programmer from Pakistan</h3>
 <p align="center">I'm a passionate about creating web applications using the MERN stack. I enjoy showcasing my creativity through personal projects and experiments 🪄. My current goal is to learn more about DevOps and how to automate, monitor and optimize the development and deployment process 🌐. Feel free to check out my repositories and connect with me! </p>
 <p align="center"> 
 <br>
@@ -39,7 +47,9 @@
 - 📄 Know about my experiences [my experiences](https://portfolio-orpin-iota-50.vercel.app/experience)
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" 
+style="font-family: 'Anta'"
+>Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bilal-akbar-285b8621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://portfolio-orpin-iota-50.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/943/943026.png" alt="bi1al-akbar" height="35" width="35" /></a>
@@ -48,39 +58,50 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p><img align="right" width=500px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
-<h3 align="left" width="100vw">Languages and Tools:</h3>
+<div align="center">
+<img align="center" width=30% alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<div>
+<h3 align="center" style="font-family: 'Anta', cursive;" width="100vw">Languages and Tools</h3>
 
-- Backend
-<p align="left">
+<p style="font-family: 'Nova Square'"> 
+ Backend
+ </p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,java,py,express,nginx" />
   </a>
 </p>
-
-- Frontend
-<p align="left">
+<p style="font-family: 'Nova Square'">
+ Frontend
+ </p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css,bootstrap" />
   </a>
 </p>
 
-- Database
-<p align="left">
+<p style="font-family: 'Nova Square'">
+ Database
+ </p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
-- Hosting/Cloud Servers
-<p align="left">
+<p style="font-family: 'Nova Square'">
+ Hosting/Cloud Services
+ </p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,vercel" />
   </a>
 </p>
 
-- Tools
-<p align="left">
+ <p style="font-family: 'Nova Square'">
+ Tools
+ </p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux,notion,npm,debian" />
   </a>
@@ -92,7 +113,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-akbar-9&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-akbar-9" /> </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left" style="font-family: 'Anta'">GitHub Stats</h3>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-akbar-9&show_icons=true&theme=radical&locale=en&layout=compact" alt="bilal-akbar-9" />
 <br/>
@@ -103,8 +124,8 @@
 </div>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Activity:</h3>
+<h3 align="left"
+style="font-family: 'Anta'"
+>Activity</h3>
 
-![Bilal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal-akbar-9&custom_title=Bilal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-<br><br>
+![Bilal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal-akbar-9&custom_title=Bilal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) <br><br> <br><br>
