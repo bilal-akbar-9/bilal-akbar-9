@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anta&family=Nova+Square&display=swap" rel="stylesheet">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=1500&pause=1000&width=435&lines=Generative+AI+Enthusiast;Full+Stack+Expert;DevOps+Intermediate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Generative+AI+Enthusiast;Full+Stack+Expert;DevOps+Intermediate" alt="Typing SVG" /></a>
 </p>
 <h1 align="center"
 style="font-family: 'Nova Square', cursive;"
@@ -13,7 +13,6 @@ style="font-family: 'Nova Square', cursive;"
 >A passionate Programmer from Pakistan</h3>
 <p align="center">I'm a passionate about creating web applications using the MERN stack. I enjoy showcasing my creativity through personal projects and experiments 🪄. My current goal is to learn more about DevOps and how to automate, monitor and optimize the development and deployment process 🌐. Feel free to check out my repositories and connect with me! </p>
 <p align="center"> 
-<br>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
@@ -32,7 +31,6 @@ style="font-family: 'Nova Square', cursive;"
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
 
 - 🔭 I’m currently working on **University Projects**
 
@@ -107,25 +105,18 @@ style="font-family: 'Anta'"
   </a>
 </p>
 
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-akbar-9&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-akbar-9" /> </p>
 
 <h3 align="left" style="font-family: 'Anta'">GitHub Stats</h3>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-akbar-9&show_icons=true&theme=radical&locale=en&layout=compact" alt="bilal-akbar-9" />
-<br/>
-<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-akbar-9&show_icons=true&theme=radical&locale=en" alt="bilal-akbar-9" />
 <img src="https://raw.githubusercontent.com/bilal-akbar-9/bilal-akbar-9/output/snake.svg" alt="Snake animation" />
 
 </div>
-<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left"
 style="font-family: 'Anta'"
 >Activity</h3>
 
-![Bilal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal-akbar-9&custom_title=Bilal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) <br><br> <br><br>
+![Bilal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bilal-akbar-9&custom_title=Bilal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
